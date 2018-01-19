@@ -1,0 +1,16 @@
+{
+  "name": "ts2",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "start": "webpack --watch"
+  },
+  "devDependencies": {
+    "@types/three": "^0.89.3",
+    "three": "^0.89.0",
+    "ts-loader": "^3.2.0",
+    "typescript": "^2.6.2",
+    "webpack": "^3.10.0",
+    "webpack-dev-server": "^2.11.0"
+  }
+}
